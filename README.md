@@ -1,4 +1,5 @@
-# circle-menu
+# Adjustable Circle menu
+Circle menu with exploading animations, where each of the bubbles can be customized(color, icon and color of the icon).
 
 ## Project setup
 ```
@@ -10,12 +11,3 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
